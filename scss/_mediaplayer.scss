@@ -11,7 +11,7 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
 
 .mejs__container {
     position: relative;
-    background: #000;
+    background: #A50001;
     font-family: "Helvetica", Arial, serif;
     text-align: left;
     vertical-align: top;
@@ -245,7 +245,7 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
 
 /* Start: Time (Current / Duration) */
 .mejs__time {
-    color: #fff;
+    color: #A50001;
     display: block;
     height: 24px;
     width: auto;
@@ -323,12 +323,12 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
 }
 
 .mejs__time-loaded {
-    background: rgba(255, 255, 255, .3);
+    background: #FFDD23;
     width: 0;
 }
 
 .mejs__time-current {
-    background: rgba(255, 255, 255, 0.9);
+    background: #680002;
     width: 0;
 }
 
@@ -337,7 +337,7 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
     position: absolute;
     margin: 0;
     width: 10px;
-    background: #fff;
+    background: #FFDD23;
     border-radius: 5px;
     cursor: pointer;
     border: solid 2px #333;
@@ -348,7 +348,7 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
 .mejs__time-float {
     position: absolute;
     display: none;
-    background: #eee;
+    background: #FFDD23;
     width: 36px;
     height: 17px;
     border: solid 1px #333;
