@@ -10,3 +10,21 @@ video {
     max-width: 100%;
     width: 100%;
 }
+
+.mejs__container {
+    background-image: url('/img/bloodspat.jpg');
+    background-size: 120%;
+}
+
+.mejs__time {
+    color: #A50001;
+}
+
+a svg {
+    width: 50px;
+}
+
+
+.mejs__time-handle {
+
+  cursor: url('/img/sword.png'); } 
